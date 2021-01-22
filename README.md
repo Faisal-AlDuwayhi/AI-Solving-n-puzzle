@@ -33,4 +33,4 @@ The code of the project contains third-party library of python like `numpy`. so 
 
 last thing to mention is that, it's better to include [venv](/venv) (virtual environment) folder when installing the project. because it has all the settings of the project you need.
 
-You can find the plain code at [n-puzzle file](n-puzzle.py).
+You can find the pure code at [n-puzzle file](n-puzzle.py).
